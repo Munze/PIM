@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Production
+build/
+dist/
+.next/
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Others
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
+*.~
+*.orig
+
+# Coverage
+coverage/
+
+# Database
+*.sqlite
+*.sqlite3
